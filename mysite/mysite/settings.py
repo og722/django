@@ -80,10 +80,10 @@ DATABASES = {
         #'OPTIONS': {
         #    'read_default_file': os.path.join(BASE_DIR, 'my.cnf'),
         'USER':'root',
-        'NAME':'how',
+        'NAME':'g',
         'PORT':'3306',
         'HOST':'localhost',
-        'PASSWORD':'55555',
+        'PASSWORD':'12345',
         },
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
